@@ -13,8 +13,9 @@ function multiply(a, b) {
 function divide(a, b) {
   return a/b
 }
-function inc(n) {
-  n = 1
+function inc(a) {
+  return a +=/1
+  
 }
 
 console.log(a, b)
