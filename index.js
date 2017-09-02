@@ -14,8 +14,7 @@ function divide(a, b) {
   return a/b
 }
 function inc(a) {
-  return a +=/1
-
+  return a +=1
 }
 
 console.log(a, b)
