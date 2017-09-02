@@ -20,8 +20,5 @@ function dec(a) {
   return a -=1
 }
 function makeInt(a) {
-parseInt(a.toString())
+ return parseInt(a)
 }
-
-
-console.log(a, b)
