@@ -15,3 +15,4 @@ return a-b
 
 substract()
 console.log(a, b)
+}
