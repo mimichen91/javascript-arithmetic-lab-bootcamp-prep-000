@@ -7,3 +7,10 @@ return a+b
 
 add()
 console.log(a, b)
+
+function subtract(a, b) {
+return a-b
+}
+
+substract()
+console.log(a, b)
