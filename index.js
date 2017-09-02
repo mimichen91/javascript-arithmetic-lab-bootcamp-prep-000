@@ -7,6 +7,7 @@ return a+b
 
 add()
 console.log(a, b)
+}
 
 function subtract(a, b) {
 return a-b
