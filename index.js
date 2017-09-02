@@ -14,6 +14,6 @@ function divide(a, b) {
   return a/b
 }
 function inc(n) {
-  return +=n 
+  return +=1 
 }
 console.log(a, b)
